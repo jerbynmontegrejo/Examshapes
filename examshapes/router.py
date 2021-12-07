@@ -5,5 +5,5 @@ from rest_framework import routers
 
 router = routers.DefaultRouter()
 router.register('account', AccountViewset)
-router.shapes('shapes', ShapesViewset)
+router.register('shapes', ShapesViewset)
 # router.myshapes('my-shapes', MyShapesViewset)

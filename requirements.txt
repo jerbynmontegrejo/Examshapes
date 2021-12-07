@@ -1,3 +1,4 @@
 Django==2.2.12
 djangorestframework==3.12.4
 knox==0.1.14
+psycopg2==2.8.6
