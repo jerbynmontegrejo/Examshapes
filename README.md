@@ -73,7 +73,7 @@ API Routes
 
 Admin Site = http://localhost:8000/admin
 Default API Root = http://localhost:8000/api
-Register = http://localhost:8000/register
+Register = http://localhost:8000/api/register
 Login = http://localhost:8000/api/login
 Account = http://localhost:8000/api/account
 Shapes = http://localhost:8000/api/shapes
